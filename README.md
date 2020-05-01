@@ -1,5 +1,5 @@
 # RoboticArmControllerforDiagnostics
-Repository of all source code and instructions for how to run our Robotic Arm Controller for diagnostics project for WUSTL CSE520S Real-Time Systems
+Repository of all source code and instructions for how to run our Robotic Arm Controller for Diagnostics semester project for WUSTL CSE520S Real-Time Systems under the teaching of Prof. Chenyang Lu.
 
 ## Install
 
